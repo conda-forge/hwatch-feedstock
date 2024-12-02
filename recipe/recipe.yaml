@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/blacknon/hwatch/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 88c2f172fbf0103aaebd804b6e3bb50f3c847363a300e8104eb83c4c332c0986
+  sha256: db1681c634a39dd6c930441d8bdaa7d875ffc87e9cf7753c6f4bb0a46ff062b0
 
 build:
   number: 0
