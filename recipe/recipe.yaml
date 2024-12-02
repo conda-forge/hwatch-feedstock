@@ -6,7 +6,7 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://github.com/blacknon/hwatch/archive/${{ version }}.tar.gz
+  url: https://github.com/blacknon/hwatch/archive/refs/tags/${{ version }}.tar.gz
   sha256: 88c2f172fbf0103aaebd804b6e3bb50f3c847363a300e8104eb83c4c332c0986
 
 build:
